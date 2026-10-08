@@ -21,7 +21,7 @@ from aiogram.enums import ParseMode
 # SOZLAMALAR
 # =========================================================
 
-TOKEN = os.getenv "8946426593:AAFMlbOEa8a5gvI1mMChuAwfgANzCkKMDBQ"
+TOKEN = os.getenv("8946426593:AAFMlbOEa8a5gvI1mMChuAwfgANzCkKMDBQ")
 
 ADMIN_ID = 7621605173
 ADMIN_USERNAME = "matkharimov1"
